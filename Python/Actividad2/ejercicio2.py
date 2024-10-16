@@ -1,6 +1,0 @@
-valor1=int(input())
-print("El valor introducido es un ",valor1)
-valor2=str(input())
-print("El valor introducido es la letra ",valor2)
-valor3=float(input())
-print("El valor introducido es el numero decimal ",valor3)
